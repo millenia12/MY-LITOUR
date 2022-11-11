@@ -2,7 +2,9 @@
 <footer class="sticky-footer bg-white shadow;">
 	<div class="container my-auto">
 		<div class="copyright text-center my-auto">
-			<span><b>Copyright &copy; Dinas Perpustakaan dan Kearsipan Kabupaten Madiun 2022</span>
+			<span><b>Copyright &copy; Dinas Perpustakaan dan Kearsipan Kabupaten Madiun <script>
+                 document.write(new Date().getFullYear())
+             </script></span>
 		</div>
 	</div>
 </footer>
