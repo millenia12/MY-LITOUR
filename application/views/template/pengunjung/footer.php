@@ -63,7 +63,9 @@
 
      <div class="container">
          <div class="copyright">
-             Copyright &copy; Dinas Perpustakaan dan Kearsipan Kabupaten Madiun 2022
+             Copyright &copy; Dinas Perpustakaan dan Kearsipan Kabupaten Madiun <script>
+                 document.write(new Date().getFullYear())
+             </script>
          </div>
      </div>
  </footer>
