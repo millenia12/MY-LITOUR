@@ -23,7 +23,7 @@
 
                      <div class="social-links">
                          <a href="https://id-id.facebook.com/perpuskab.madiun" class="facebook"><i class="bx bxl-facebook"></i></a>
-                         <a href="https://www.instagram.com/perpus.madiunkab" class="instagram"><i class="bx bxl-instagram"></i></a>
+                         <a href="https://www.instagram.com/perpusarsip.madiunkab" class="instagram"><i class="bx bxl-instagram"></i></a>
                          <a href="https://twitter.com/perpus_kabmdn" class="twitter"><i class="bx bxl-twitter"></i></a>
                          <a href="https://www.youtube.com/channel/UC13Uwz-OCgMsfZYBcDZdsEA/videos?view=0&sort=p" class="youtube"><i class="bx bxl-youtube"></i></a>
                      </div>
